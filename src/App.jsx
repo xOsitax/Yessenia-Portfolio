@@ -4,6 +4,8 @@ import About from "./pages/about";
 import Projects from "./pages/projects";
 import Contact from "./pages/contact";
 import Navbar from "./components/Navbar";
+import "./index.css";
+import "./normalize.css";
 
 function App() {
   return (
